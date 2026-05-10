@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 It is configured for static export and deployment to GitHub Pages at:
 
-https://trtm.github.io/browser-ai/
+https://browser.assistant.sh/
 
 ## Getting Started
 
